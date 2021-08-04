@@ -1,4 +1,7 @@
-  // Your web app's Firebase configuration
+import * as firebase from 'firebase/app';
+import 'firebase/storage';
+import 'firebase/firestore';
+ // Your web app's Firebase configuration
 var firebaseConfig = {
     apiKey: "AIzaSyDe0EyDRSWXM5_g74WGU840xYsrTWo0v3A",
     authDomain: "cristpreyra-firegram.firebaseapp.com",
@@ -9,3 +12,8 @@ var firebaseConfig = {
 };
   // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
+
+const firebaseStorage = firebase.storage();
+const firebaseFirestore = firebase.firestore();
+
+export { firebaseStorage, firebaseFirestore };
