@@ -18,17 +18,6 @@ const useStorage = (file) => {
             const url = await storageRef.getDownloadURL();
             setUrl(url);
         })
-        /*const fetchFile = async () => {
-            try {
-                const storageRef = projectStorage.ref(file.name);
-                const storage = await storageRef.getDownloadURL();
-                setUrl(storage);
-            } catch (error) {
-                setError(error);
-            }
-        };
-
-        fetchFile();*/
     }, [file]);
     return { progress, url, error }
 }
