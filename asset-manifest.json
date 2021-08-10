@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/insta-firebase/static/css/main.e3bd3a6e.chunk.css",
+    "main.js": "/insta-firebase/static/js/main.d272395d.chunk.js",
+    "main.js.map": "/insta-firebase/static/js/main.d272395d.chunk.js.map",
+    "runtime-main.js": "/insta-firebase/static/js/runtime-main.96baebb0.js",
+    "runtime-main.js.map": "/insta-firebase/static/js/runtime-main.96baebb0.js.map",
+    "static/js/2.522f3122.chunk.js": "/insta-firebase/static/js/2.522f3122.chunk.js",
+    "static/js/2.522f3122.chunk.js.map": "/insta-firebase/static/js/2.522f3122.chunk.js.map",
+    "index.html": "/insta-firebase/index.html",
+    "precache-manifest.2265a5a6d4439490ab1725c0e4887c22.js": "/insta-firebase/precache-manifest.2265a5a6d4439490ab1725c0e4887c22.js",
+    "service-worker.js": "/insta-firebase/service-worker.js",
+    "static/css/main.e3bd3a6e.chunk.css.map": "/insta-firebase/static/css/main.e3bd3a6e.chunk.css.map",
+    "static/js/2.522f3122.chunk.js.LICENSE.txt": "/insta-firebase/static/js/2.522f3122.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96baebb0.js",
+    "static/js/2.522f3122.chunk.js",
+    "static/css/main.e3bd3a6e.chunk.css",
+    "static/js/main.d272395d.chunk.js"
+  ]
+}
